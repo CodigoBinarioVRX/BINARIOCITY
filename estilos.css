@@ -1,0 +1,18 @@
+h1 {
+    font-size: 25px
+    ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.agrupar{
+    background: chartreuse;
+    width: 300px;
+    margin-top: 200px
+    ;
+    margin-left: 600px;
+    border: 4px solid black;
+}
+
+
+
+
